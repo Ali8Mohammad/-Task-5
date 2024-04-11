@@ -968,6 +968,9 @@ ul {
         width: 1050px !important;
         margin: auto;
     }
+    .nav-2 {
+        display: none;
+    }
 
 }
 @media (min-width: 992px) and (max-width: 1199px) {
