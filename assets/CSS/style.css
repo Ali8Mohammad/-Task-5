@@ -974,6 +974,43 @@ ul {
     .search {
         width: 600px !important;
     }
+    .hero-contact {
+        padding-top: 100px;
+     }
+     .hero-contact h3 {
+         font-weight: 100;
+         font-size: 48px;
+     }
+     .hero-contact p {
+         width: 70%;
+         font-size: 18px;
+         text-align: center;
+         padding-bottom: 70px;
+     }
+     .map-caption {
+         padding: 0 !important;
+         font-size: 10px !important;
+         text-align: end;
+         width: max-content !important;
+         margin-left: 495px !important;
+     }
+     .map-caption a {
+         font-size: 10px;
+     }
+     .pop-up {
+         height: 100px !important;
+     }
+     .pop-up p {
+         padding-top: 30px !important;
+         width: 90% !important;
+         text-align: start;
+     }
+     .pop-up::after {
+         left: 157px;
+     }
+     .first-contact-section {
+         padding-top: 100px;
+     }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
     .container {
