@@ -1064,11 +1064,9 @@ ul {
         width: 500px;
     }
     .ul-search:focus .search {
-        top: 1px;
         left: 300px;
     }
     .search:focus {
-        top: 1px;
         left: 300px;
     }
     .services-section  {
