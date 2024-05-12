@@ -971,7 +971,9 @@ ul {
     .nav-2 {
         display: none;
     }
-
+    .search {
+        width: 600px !important;
+    }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
     .container {
@@ -994,9 +996,6 @@ ul {
     }
     .bottomr-arrow {
         top: 315px;
-    }
-    .header-info {
-        display: none;
     }
     .hero-section {
         padding-top: 100px;
