@@ -1337,8 +1337,14 @@ ul {
         width: 80% !important;
         margin: 20px auto !important;
     }
+    .about-text p {
+        width: 405px !important;
+    }
+    .slider-brands {
+        width: 127% !important;
+    }
     .brands-about {
-        width: 350px !important;
+        width: 400px !important;
     }
     .brands-about img {
         width: 15% !important;
