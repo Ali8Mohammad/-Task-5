@@ -1367,10 +1367,20 @@ ul {
         flex-direction: row;
     }
     .first-form div {
-        width: 100%;
+        width: 400px;
+    }
+    .form-group-700 {
+        width: 400px !important;
+
+    }
+    .form-control{
+        width: 400px !important;
+    }
+    .form-btn {
+        width: 400px !important;
     }
     .first-form div input {
-        width: 100%;
+        width: 400px;
     }
     .darkness {
         font-size: 15px;
